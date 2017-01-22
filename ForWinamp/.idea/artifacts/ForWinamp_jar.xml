@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ForWinamp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ForWinamp_jar</output-path>
+    <root id="archive" name="ForWinamp.jar">
+      <element id="module-output" name="ForWinamp" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JavaLibs/JavaWinampAPI_v1_1/JavaWinampAPI.jar" path-in-jar="/" />
+      <element id="library" level="project" name="JavaWinampAPI" />
+      <element id="file-copy" path="$PROJECT_DIR$/wpcom.dll" />
+    </root>
+  </artifact>
+</component>
